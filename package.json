@@ -1,0 +1,16 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Simple Scraper using nodejs, puppeteer and save it to mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Clemen",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.3",
+    "puppeteer": "^2.0.0"
+  }
+}
